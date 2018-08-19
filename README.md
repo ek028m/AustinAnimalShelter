@@ -7,7 +7,7 @@ Animal Center Outcomes from Oct, 1st 2013 to present. Outcomes represent the sta
 This is an open ended project to explore multiple questions and to investigate using multiple programming tools / languages.
 
 #### Questions to Explore
-1. What is the average length of time a dof remains in the center?
+1. What is the average length of time a dog remains in the center?
 2. What type of distribution does the breeds follow?
 3. Is there a correlation between the outcome type and breed?
 4. Does the dog age affect the outcome type?
